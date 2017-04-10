@@ -14,5 +14,6 @@ else
 }
 
 $message = str_replace('[1]', '', $message);
+$message = str_replace('"', '', $message);
 
 echo $message;
