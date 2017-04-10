@@ -1,5 +1,5 @@
 sayHello <- function(){
-   print('hello')
+   print('car')
 }
 
 sayHello()
